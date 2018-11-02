@@ -8,6 +8,7 @@ namespace Checkpoint4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Best movies ever!");
+            Console.WriteLine("Inferno of Honor");
             Console.WriteLine("Quadruple Retreat");
         }
     }
